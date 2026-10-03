@@ -20,7 +20,7 @@ A small installer that downloads **only these six fonts** and installs them for 
 ## Quick Install
 
 ```bash
-curl -L https://gist.github.com/taghouttarek/GIST_ID/raw/install-wps-symbol-fonts.sh | bash
+curl -L https://gist.github.com/taghouttarek/da69be8da0e4f9eaec5484a94d7ed01f/raw/install-wps-symbol-fonts.sh | bash
 ```
 
 Then **save your documents and restart WPS Office**. WPS only checks fonts at startup.
