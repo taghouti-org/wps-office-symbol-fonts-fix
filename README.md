@@ -63,3 +63,7 @@ fc-cache -f
 ## Note on licensing
 
 These are proprietary Microsoft fonts. This gist doesn't redistribute them; the installer downloads them from the third-party repository above. Make sure your use complies with the fonts' license (for example, if you own a Windows or Microsoft Office license, you can copy the same files from `C:\Windows\Fonts` instead).
+
+---
+
+First published as a [gist](https://gist.github.com/taghouttarek/da69be8da0e4f9eaec5484a94d7ed01f).
