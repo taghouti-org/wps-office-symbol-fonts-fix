@@ -20,7 +20,7 @@ A small installer that downloads **only these six fonts** and installs them for 
 ## Quick Install
 
 ```bash
-curl -L https://gist.github.com/taghouttarek/da69be8da0e4f9eaec5484a94d7ed01f/raw/install-wps-symbol-fonts.sh | bash
+curl -L https://raw.githubusercontent.com/taghouti-org/wps-office-symbol-fonts-fix/main/install-wps-symbol-fonts.sh | bash
 ```
 
 Then **save your documents and restart WPS Office**. WPS only checks fonts at startup.
@@ -63,7 +63,3 @@ fc-cache -f
 ## Note on licensing
 
 These are proprietary Microsoft fonts. This gist doesn't redistribute them; the installer downloads them from the third-party repository above. Make sure your use complies with the fonts' license (for example, if you own a Windows or Microsoft Office license, you can copy the same files from `C:\Windows\Fonts` instead).
-
----
-
-First published as a [gist](https://gist.github.com/taghouttarek/da69be8da0e4f9eaec5484a94d7ed01f).
